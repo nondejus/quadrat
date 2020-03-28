@@ -1,2 +1,0 @@
-# merchandise
-商品
